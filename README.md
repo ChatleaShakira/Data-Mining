@@ -19,7 +19,7 @@ Data Mining and Business Intelligence is one of the elective courses in the Stat
 3. Visualization
 4. Finding insights from the data
 
-You can see the results of this project at [Presetation Format](https://github.com/ChatleaShakira/Data-Mining/blob/311bbc672f463f6f7cfc690ef2be1120bbddda8b/UAS%20Data%20Mining%20Ganjil%202023.pdf) or 
+You can see the results of this project at [Presetation Format](https://github.com/ChatleaShakira/Data-Mining/blob/311bbc672f463f6f7cfc690ef2be1120bbddda8b/UAS%20Data%20Mining%20Ganjil%202023.pdf) or [Codes ipnyb](https://github.com/ChatleaShakira/Data-Mining/blob/eacdf997a982881117241610828b43cb0b02e1d2/Project_Data_Mining.ipynb)
 
 
 
