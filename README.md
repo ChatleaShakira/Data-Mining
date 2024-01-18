@@ -1,4 +1,4 @@
-# Data-Mining and Business Intelligence
+# Data Mining and Business Intelligence
 ## Exploration of Health Data with The Mining Process
 \
 Data Mining and Business Intelligence is one of the elective courses in the Statistics program at the University of Indonesia that I took in my fourth semester. This course is designed to enable students to identify information and insights that are hidden in data using various statistical and machine learning methods and provide recommendations that can be done by the users.\
