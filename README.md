@@ -9,14 +9,14 @@ Data Mining and Business Intelligence is one of the elective courses in the Stat
    b. Handling noise and outliers\
    c. Handling missing values\
    d. Removing data duplication\
-   e. Checking the correlation\
+   e. Checking the correlation
 2. Data Analysis\
    a. SVM Method\
    b. Decision Tree Method\
    c. K-NN Method\
    d. Demographic Exploration\
-   e. Looking at the relationship between variables\
-3. Visualization\
+   e. Looking at the relationship between variables
+3. Visualization
 4. Finding insights from the data
 
 
