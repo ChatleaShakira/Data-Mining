@@ -19,6 +19,8 @@ Data Mining and Business Intelligence is one of the elective courses in the Stat
 3. Visualization
 4. Finding insights from the data
 
+You can see the results of this project at 
+
 
 
 
